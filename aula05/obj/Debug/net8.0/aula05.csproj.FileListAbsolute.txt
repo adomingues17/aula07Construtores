@@ -1,0 +1,28 @@
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.GeneratedMSBuildEditorConfig.editorconfig
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.AssemblyInfoInputs.cache
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.AssemblyInfo.cs
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.csproj.CoreCompileInputs.cache
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.exe
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.deps.json
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.runtimeconfig.json
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.dll
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.pdb
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.dll
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\refint\aula05.dll
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.pdb
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.genruntimeconfig.cache
+D:\impacta\cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\ref\aula05.dll
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.GeneratedMSBuildEditorConfig.editorconfig
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.AssemblyInfoInputs.cache
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.AssemblyInfo.cs
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.csproj.CoreCompileInputs.cache
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.dll
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\refint\aula05.dll
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.pdb
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.exe
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.deps.json
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.runtimeconfig.json
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.dll
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\bin\Debug\net8.0\aula05.pdb
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\aula05.genruntimeconfig.cache
+D:\impacta\4 cSharp\5 aulaCinco\aula05\aula05\obj\Debug\net8.0\ref\aula05.dll
